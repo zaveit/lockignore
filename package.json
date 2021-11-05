@@ -1,0 +1,12 @@
+{
+  "name": "lockignore",
+  "version": "1.0.0",
+  "description": "Developer tool to ignore/remove packages from package-lock.json",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "lockignore": "./index.js"
+  },
+  "author": "Christian A. Mathiesen <christian@zaveit.no>",
+  "license": "ISC"
+}
